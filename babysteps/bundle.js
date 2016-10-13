@@ -1,0 +1,1 @@
+console.error("SyntaxError: /home/porta8080/projetos/frontend/babysteps/js/components/index.js: Unexpected token (39:44) while parsing file: /home/porta8080/projetos/frontend/babysteps/js/components/index.js");
